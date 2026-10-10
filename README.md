@@ -1,2 +1,2 @@
 # --My-portfolio--
-**Simple Portfolio with html and css**
+**Simple Portfolio using html and css**
